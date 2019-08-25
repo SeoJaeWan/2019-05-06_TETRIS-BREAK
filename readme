@@ -2,3 +2,22 @@
 
 프로젝트 소개는 아래 링크를 확인해주시기 바랍니다.
 https://drive.google.com/file/d/1FYYwGZ45Zl5PQ2j_rhYN38D3bKulaAAT/view?usp=sharing
+
+회의록 
+https://drive.google.com/drive/folders/1pLzKflG1VHE_C6BKq7uIn4hI1TVyci2B?usp=sharing
+
+참고 사이트 
+클라이언트 코드 참고 : https://m.blog.naver.com/PostView.nhn?blogId=azure0777&logNo=220295388741&proxyReferer=https%3A%2F%2Fwww.google.com%2F
+
+서버 코드 참고 : https://remocon33.tistory.com/465
+
+UDP 통신(서버가 방생성후 클라에 방목록 전송시 사용)                             : https://m.blog.naver.com/PostView.nhn?blogId=sol9501&logNo=70106345485&proxyReferer=https%3A%2F%2Fwww.google.com%2F
+        (방 목록 정보가 유실되어 클라에서 안보일 경우 클라에서 새로고침이 가능)   : https://tapito.tistory.com/556 
+서버가 udp sender역활
+클라이언트들이 receiver역활
+
+IP 주소 긁어오는 함수 참고 : https://gist.github.com/yoggy/1241986
+
+TCP 통신 코드 참고 : https://m.blog.naver.com/itperson/220932243494
+
+
